@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "title" : "Blue Denim Shirt",
+        "description" : "Shirt Blue",
+        "color" : "Blue",
+        "size" : "M",
+        "image" : "../assets/Helly-Hansen-Verglas-Down-Jacket-PNG.png",
+        "price" : "17.99",
+        "stock" : "1",
+        "count" : "0"
+    },
+    {
+        "id" : 2,
+        "title" : "Red Hoodie",
+        "description" : "Hoodie Red",
+        "color" : "Red",
+        "size" : "M",
+        "image" : "../assets/Leather-Jacket-PNG-Pic.png",
+        "price" : "35.99",
+        "stock" : "",
+        "count" : "5"
+    }
+]
